@@ -1,2 +1,2 @@
 # Exercicio_Tecblog
- Primeiro Projeto Versionado - HTML5 e CSS3
+ First Project - HTML5 and CSS3

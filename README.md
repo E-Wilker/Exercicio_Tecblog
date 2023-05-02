@@ -4,7 +4,8 @@
 ### OBJECTIVE
 >Exercise knowledge acquired during the study of HTML 5, CSS3 and code versioning with gitbub destktop.
 
-### TECNOLOGIAS USADAS
+### TECNOLOGIES
+
 > HTML5,
 > CSS3 
 
